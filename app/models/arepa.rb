@@ -1,0 +1,2 @@
+class Arepa < ApplicationRecord
+end
